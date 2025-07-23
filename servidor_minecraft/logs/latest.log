@@ -195,3 +195,480 @@ ddddddddddd<--[HERE]
 [04:47:59] [Server thread/INFO]: BRANDERXON has made the advancement [Isn't It Iron Pick]
 [04:48:23] [Async Chat Thread - #10/INFO]: [Not Secure] <.CrashBlock73577> solo es eso miles
 [04:48:35] [Async Chat Thread - #10/INFO]: [Not Secure] <.CrashBlock73577> un salto de fe
+[04:49:18] [Server thread/INFO]: BRANDERXON has made the advancement [Not Today, Thank You]
+[04:49:21] [Server thread/INFO]: BRANDERXON has made the advancement [Monster Hunter]
+[04:49:26] [Server thread/INFO]: .CrashBlock73577 was slain by Zombie
+[04:50:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> Ahora cuando mueres se te genera un cofre
+[04:50:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> casi solo lo hice por el pendejo del CrashBlock
+[04:51:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> muere mínimo 2 veces por noche
+[04:52:52] [Server thread/INFO]: .CrashBlock73577 has made the advancement [Take Aim]
+[04:53:06] [Server thread/INFO]: .CrashBlock73577 was shot by Skeleton
+[04:53:18] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> ya son 2
+[04:53:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> perfecto!
+[04:54:07] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> ya encontré la cueva
+[04:57:00] [Server thread/INFO]: .CrashBlock73577 was blown up by Creeper
+[04:57:10] [Async Chat Thread - #16/INFO]: [Not Secure] <Luis512MC> detonada sabrosa
+[04:57:30] [Async Chat Thread - #16/INFO]: [Not Secure] <BRANDERXON> deacanse en paz
+[04:59:31] [Async Chat Thread - #18/INFO]: [Not Secure] <BRANDERXON> puedo usar xray==
+[04:59:34] [Async Chat Thread - #19/INFO]: [Not Secure] <BRANDERXON> ??
+[04:59:41] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> te saca automaticamente
+[04:59:50] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> ya hay plugins para eso xd
+[04:59:56] [Async Chat Thread - #19/INFO]: [Not Secure] <BRANDERXON> fack
+[05:00:14] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> echale webos cabrón
+[05:00:17] [Server thread/INFO]: [AngelChest] .CrashBlock73577 opened the AngelChest of .CrashBlock73577 at Location{world=CraftWorld{name=world},x=-3309.0,y=44.0,z=3202.0,pitch=0.0,yaw=0.0}
+[05:00:32] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> tampoco es tan dificil salir full diamante en estas versiones
+[05:00:47] [Async Chat Thread - #19/INFO]: [Not Secure] <BRANDERXON> y porque no me los detecta ahorita???
+[05:01:15] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> los tienes puestos?
+[05:01:21] [Server thread/INFO]: [AngelChest] .CrashBlock73577 opened the AngelChest of .CrashBlock73577 at Location{world=CraftWorld{name=world},x=-3309.0,y=44.0,z=3202.0,pitch=0.0,yaw=0.0}
+[05:01:21] [Async Chat Thread - #19/INFO]: [Not Secure] <BRANDERXON> no
+[05:01:28] [Server thread/INFO]: [AngelChest] .CrashBlock73577 opened the AngelChest of .CrashBlock73577 at Location{world=CraftWorld{name=world},x=-3309.0,y=44.0,z=3202.0,pitch=0.0,yaw=0.0}
+[05:01:28] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> obvio
+[05:01:33] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> una de dos
+[05:01:35] [Async Chat Thread - #19/INFO]: [Not Secure] <BRANDERXON> JJAJAJAJJAJAJAJ
+[05:01:38] [Server thread/INFO]: [AngelChest] .CrashBlock73577 opened the AngelChest of .CrashBlock73577 at Location{world=CraftWorld{name=world},x=-3309.0,y=44.0,z=3202.0,pitch=0.0,yaw=0.0}
+[05:01:39] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> o es ban automático
+[05:01:41] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> o me avisa
+[05:01:47] [Async Chat Thread - #19/INFO]: [Not Secure] <BRANDERXON> perma??
+[05:01:52] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> si
+[05:02:10] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:11] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:118) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:12] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:12] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> pero yo tambien puedo hacer el unban asi que es lo mismo
+[05:02:12] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:13] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:14] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:14] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:15] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:16] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:17] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:18] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:18] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:18] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AngelChest v13.9.4
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$WA.$$case(AngelChestUtils.java:305) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:219) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.$$case(PlayerListener.java:184) ~[AngelChest-13.9.4.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$xg.onAngelChestRightClick(PlayerListener.java:148) ~[AngelChest-13.9.4.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:526) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:478) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2048) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:45) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:02:21] [Async Chat Thread - #19/INFO]: [Not Secure] <Luis512MC> de todas maneras está en las reglas del discord
+[05:03:34] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[05:03:49] [Async Chat Thread - #20/INFO]: [Not Secure] <BRANDERXON> y el fullbrigh??
+[05:03:57] [Async Chat Thread - #20/INFO]: [Not Secure] <.CrashBlock73577> bebe lo logramos
+[05:04:02] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> ese le puse que si lo dejara
+[05:04:07] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> bebe
+[05:04:18] [Server thread/INFO]: BRANDERXON has made the advancement [Suit Up]
+[05:04:24] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> BEBE, REPEAT AFTER ME
+[05:04:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> NO PODEMOS
+[05:04:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> NIO PODEMOS
+[05:05:00] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> NO PODEMOS
+[05:05:03] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> NIO PODEMOS
+[05:05:07] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> NO PODEMOS
+[05:05:11] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> NIO PODEMOS
+[05:05:26] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[05:05:27] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> AAAAAAAAH TAL VEZ TU NO PODRÁS PERO YO SÍ PORQUE SOY FERNANFLOO CARAJO
+[05:05:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> saquen el cobre, hay tormenta
+[05:06:02] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> XD se quitó
+[05:06:13] [Async Chat Thread - #21/INFO]: [Not Secure] <.CrashBlock73577> los pararrayos
+[05:06:22] [Async Chat Thread - #21/INFO]: [Not Secure] <.CrashBlock73577> jajaja
+[05:06:26] [Async Chat Thread - #21/INFO]: [Not Secure] <Luis512MC> eso de la barra de búsqueda no me gusta
+[05:06:32] [Async Chat Thread - #21/INFO]: [Not Secure] <BRANDERXON> ya no me dan miedo los ruidos del maincre
+[05:06:35] [Async Chat Thread - #21/INFO]: [Not Secure] <Luis512MC> veré la forma de eliminar eso
+[05:06:41] [Async Chat Thread - #21/INFO]: [Not Secure] <BRANDERXON> pero me dan miedo las mujeras
+[05:06:44] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> en la vida soy tu
+[05:06:49] [Async Chat Thread - #20/INFO]: [Not Secure] <.CrashBlock73577> xd
+[05:06:54] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> en ese ultimo aspecto no soy ese
+[05:07:12] [Async Chat Thread - #20/INFO]: [Not Secure] <BRANDERXON> es meme JSJSJSJSJSJSJ
+[05:07:16] [Async Chat Thread - #20/INFO]: [Not Secure] <BRANDERXON> no me representa
+[05:07:21] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> x2
+[05:07:37] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> entonces si te cgas con los sonidos del maincra?
+[05:08:04] [Async Chat Thread - #20/INFO]: [Not Secure] <BRANDERXON> aveces
+[05:08:28] [Async Chat Thread - #20/INFO]: [Not Secure] <.CrashBlock73577> chispas
+[05:08:38] [Async Chat Thread - #20/INFO]: [Not Secure] <BRANDERXON> ese vocabulario bro
+[05:08:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> bro
+[05:08:56] [Async Chat Thread - #20/INFO]: [Not Secure] <.CrashBlock73577> bro respeta
+[05:09:00] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> te voy a banear si sigues diciendo esas palabrotas
+[05:09:10] [Async Chat Thread - #20/INFO]: [Not Secure] <Luis512MC> XD
+[05:09:13] [Async Chat Thread - #20/INFO]: [Not Secure] <.CrashBlock73577> putas
