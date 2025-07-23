@@ -177,3 +177,21 @@ ddddddddddd<--[HERE]
 [04:33:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> un digno oponente
 [04:37:09] [Server thread/INFO]: BRANDERXON lost connection: Disconnected
 [04:37:09] [Server thread/INFO]: BRANDERXON left the game
+[04:40:11] [Server thread/INFO]: Villager Villager['Nitwit'/8122, uuid='0e6b84d8-1609-413d-be0e-f53fec8dffaa', l='ServerLevel[world]', x=-3530.09, y=64.00, z=3298.01, cpos=[-221, 206], tl=3085, v=true] died, message: 'Nitwit was slain by Zombie'
+[04:40:49] [User Authenticator #3/INFO]: UUID of player BRANDERXON is ba0e7b5e-6125-3710-90df-8e49e5531f6e
+[04:40:50] [Server thread/INFO]: BRANDERXON joined the game
+[04:40:50] [Server thread/INFO]: BRANDERXON[/127.126.184.176:46529] logged in with entity id 9240 at ([world]135.30000001192093, 96.0, 93.51415080032955)
+[04:41:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Luis512MC> oigan
+[04:42:18] [Async Chat Thread - #6/INFO]: [Not Secure] <Luis512MC> ustedes han encontrado una cueva de estalagtita en este server?
+[04:42:29] [Async Chat Thread - #6/INFO]: [Not Secure] <.CrashBlock73577> no
+[04:43:05] [Server thread/INFO]: Luis512MC was kicked due to keepalive timeout!
+[04:43:05] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[04:43:05] [Server thread/INFO]: Luis512MC left the game
+[04:43:32] [User Authenticator #4/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[04:43:34] [Server thread/INFO]: Luis512MC joined the game
+[04:43:34] [Server thread/INFO]: Luis512MC[/127.48.121.197:53681] logged in with entity id 10608 at ([world_nether]-103.94960957805286, 61.087709259412335, -287.30000001192093)
+[04:44:53] [Async Chat Thread - #8/INFO]: [Not Secure] <BRANDERXON> esta madre tiene keepinventory o algo así??
+[04:47:53] [Server thread/INFO]: BRANDERXON has made the advancement [Acquire Hardware]
+[04:47:59] [Server thread/INFO]: BRANDERXON has made the advancement [Isn't It Iron Pick]
+[04:48:23] [Async Chat Thread - #10/INFO]: [Not Secure] <.CrashBlock73577> solo es eso miles
+[04:48:35] [Async Chat Thread - #10/INFO]: [Not Secure] <.CrashBlock73577> un salto de fe
