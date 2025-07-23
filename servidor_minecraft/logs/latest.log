@@ -1,6 +1,6 @@
-[03:03:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[03:03:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-10-main@c8a8c0e (2025-07-20T22:11:18Z) for Minecraft 1.21.8
-[03:03:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:03:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[03:03:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[03:07:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[03:07:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-10-main@c8a8c0e (2025-07-20T22:11:18Z) for Minecraft 1.21.8
+[03:07:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:07:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[03:07:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - AngelChest (13.9.4), Geyser-Spigot (2.8.2-SNAPSHOT), ViaVersion (5.4.2-SNAPSHOT), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
