@@ -1,520 +1,3598 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753240140057 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753241252544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240143129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241255625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240146199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241258747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240149289 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241261831 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240152362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241264901 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240155462 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241267972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240158525 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241271052 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240161605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241274120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240164675 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241277269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240167740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241280364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240170805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241283435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240173898 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241286508 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240176963 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241289587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240180034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241292662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240183145 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241295730 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240186221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241298794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240189283 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241301860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240192354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241304921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240195422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241307983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240198516 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241311053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240201599 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241314116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240204658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241317181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240207719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241320273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240210793 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241323351 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240213876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241326420 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240216938 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241329480 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240220001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241332547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240223065 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241335608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240226127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241338675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240229205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241341745 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240232281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241344810 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240235355 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241347889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240238413 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241350952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240241477 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241354022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240244556 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241357088 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240247619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241360167 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240250691 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241363230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240253765 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241366291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240256847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241369380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240259909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241372458 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240262981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241375523 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240266046 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241378601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240269124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241381662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240272206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241384757 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240275287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241387823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240278359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241390889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240281422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241393961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240284491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241397038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240287555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241400106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240290621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241403167 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240293689 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241406238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240296750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241409332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240299820 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241412394 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240302887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241415461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240305970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241418554 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240309043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241421633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240312105 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241424696 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240315166 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241427798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240318239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241430861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240321301 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241433924 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240324378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241436988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240327447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241440062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240330508 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241443131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240333574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241446199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240336647 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241449263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240339721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241452340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240342789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241455428 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240345869 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241458564 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240348940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241461628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240352041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241464694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240355116 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241467800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240358194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241470891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240361259 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241473963 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240364331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241477038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240367411 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241480109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240370491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241483179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240373571 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241486275 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240376637 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241489356 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240379699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241492417 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240382760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241495484 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240385826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241498552 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240388894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241501633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240391957 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241504723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240395032 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241507799 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240398116 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241510862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240401181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241513983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1753240404254 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753241517055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241520117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241523192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241526270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241529342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241532428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241535497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241538577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241541644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241544710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241547805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241550889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241553955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241557024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241560096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241563195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241566296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241569369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241572446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241575529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241578602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241581673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241584753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241587924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241591002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241594077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241597151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241600239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241603321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241606387 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241609484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241612570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241615633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241618708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241621775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241624849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241627944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241631015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241634085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241637149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241640213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241643290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241646355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241649419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241652505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241655606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241658674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241661750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241664814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241667875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241670961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241674035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241677103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241680170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241683237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241686307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241689379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241692448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241695519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241698582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241701655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241704724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241707788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241710876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241713939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241717021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241720086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241723150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241726209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241729281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241732341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241735406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241738468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241741532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241744599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241747711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241750774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241753834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241756923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241760002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241763068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241766140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241769204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241772271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241775353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241778428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241781496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241784567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241787633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241790696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241793774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241796856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241799930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241802996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241806069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241809141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241812216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241815285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241818350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241821424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241824500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241827565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241830631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241833708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241836783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241839853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241842945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241846042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241849146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241852270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241855358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241858437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241861522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241864594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241867680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241870801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241873910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241876972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241880034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241883105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241886195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241889272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241892350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241895437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241898504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241901573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241904639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241907712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241910774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241913839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241916908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241919971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241923055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241926132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241929241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241932324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241935478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241938541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241941606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241944673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241947735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241950802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241953876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241956956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241960032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241963119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241966186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241969266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241972333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241975770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241978836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241981909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241984974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241988058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241991121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241994214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753241997307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242000372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242003451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242006515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242009607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242012675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242015739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242018799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242021891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242024952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242028061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242031140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242034214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242037282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242040357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242043424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242046489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242049561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242052621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242055712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242058788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242061860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242064925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242067989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242071136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242074204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242077275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242080345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242083418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242086495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242089568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242092644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242095714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242098782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242101858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242104925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242108025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242111097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242114206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242117280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242120349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242123437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242126509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242129618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242132700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242135774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242138873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242141951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242145022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242148118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242151183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242154251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242157315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242160388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242163461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242166529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242169614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242172692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242175773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242178840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242181916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242184999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242188139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242191210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242194279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242197369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242200439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242203506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242206586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242209727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242212794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242215898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242218961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242222030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242225108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242228177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242231302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242234369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242237485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242240604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242243736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242246797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242249866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242252936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242256017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242259093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242262169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242265262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242268333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242271464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242274550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242277630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242280704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242283777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242286841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242289908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242292980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242296048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242299135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242302229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242305318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242308411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242311474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242314543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242317615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242320682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242323766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242326854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242329929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242333034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242336111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242339190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242342287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242345375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242348447 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242351508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242354584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242357663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242360738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242363813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242366888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242369949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242373010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242376072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242379131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242382202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242385279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242388348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242391409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242394538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242397606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242400712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242403786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242406898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242410018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242413125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242416199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242419274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242422359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242425452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242428526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242431600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242434673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242437756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242440838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242443991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242447053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242450166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242453315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242456396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242459476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242462552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242465655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242468728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242471824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242474891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242477966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242481064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242484132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242487224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242490307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242493450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242496520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242499595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242502665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242505743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242508829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242512018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242515114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242518228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242521295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242524364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242527430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242530503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242533576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242536658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242539741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242542809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242545895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242548987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242552062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242555138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242558245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242561316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242564379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242567450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242570526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242573586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242576654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242579793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242582857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242585924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242588993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242592070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242595158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242598230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242601299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242604368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242607440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242610507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242613584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242616662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242619739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242622804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242625866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242628931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242632045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242635108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242638190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242641299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242644381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242647442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242650507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242653568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242656629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242659698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242662760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242665828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242668896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242671960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242675025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242678089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242681149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242684210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242687277 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242690352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242693417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242696483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242699551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242702618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242705695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242708770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242711835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242714916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242717982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242721044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242724106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242727169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242730230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242733294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242736368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242739436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242742500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242745559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242748637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242751703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242754771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242757834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242760903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242763973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242767049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242770132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242773197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242776278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242779356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242782429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242785489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242788554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242791640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242794710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242797798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242800860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242803938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242806998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242810116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242813187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242816247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242819309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242822373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242825457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242828532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242831605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242834697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242837764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242840854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242843920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242846984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242850048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242853116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242856216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242859309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242862388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242865501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242868567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242871628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242874705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242877770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242880843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242883908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242887032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242890112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242893195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242896260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242899330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242902392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242905475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242908565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242911633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242914708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242917779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242920848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242923910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242926972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242930067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242933136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242936198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242939268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242942366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242945445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242948582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242951648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242954726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242957796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242960874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242963945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242967014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242970086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242973148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242976213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242979289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242982370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242985440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242988515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242991586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242994653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753242997722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243000782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243003854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243006915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243009988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243013072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243016148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243019213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243022308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243025375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243028440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243031518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243034588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243037649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243040714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243043781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243046856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243049922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243052989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243056069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243059137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243062203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243065268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243068335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243071410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243074497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243077566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243080630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243083706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243086785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243089857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243092925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+virtual-published.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+accommodation-seek.gl.at.ply.gg:3464 => 127.0.0.1:3464 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.2): 1753243095988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
