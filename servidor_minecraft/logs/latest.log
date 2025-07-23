@@ -737,3 +737,74 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [05:37:59] [User Authenticator #5/INFO]: UUID of player BRANDERXON is ba0e7b5e-6125-3710-90df-8e49e5531f6e
 [05:38:01] [Server thread/INFO]: BRANDERXON joined the game
 [05:38:01] [Server thread/INFO]: BRANDERXON[/127.126.184.176:43271] logged in with entity id 38081 at ([world]-399.321698548779, 65.17380333872785, 1393.0280881677681)
+[05:41:22] [Server thread/INFO]: BRANDERXON lost connection: Disconnected
+[05:41:22] [Server thread/INFO]: BRANDERXON left the game
+[05:43:46] [User Authenticator #6/INFO]: UUID of player BRANDERXON is ba0e7b5e-6125-3710-90df-8e49e5531f6e
+[05:43:48] [Server thread/INFO]: BRANDERXON joined the game
+[05:43:48] [Server thread/INFO]: BRANDERXON[/127.126.184.176:46513] logged in with entity id 40910 at ([world]-462.17461763144735, 65.10149114635858, 1187.406078346622)
+[05:43:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+s<--[HERE]
+[05:44:28] [Async Chat Thread - #26/INFO]: [Not Secure] <BRANDERXON> pto caballo lentooo
+[05:45:06] [Server thread/INFO]: BRANDERXON has made the advancement [What a Deal!]
+[05:45:42] [Async Chat Thread - #28/INFO]: [Not Secure] <BRANDERXON> buenas noches
+[05:45:49] [Async Chat Thread - #28/INFO]: [Not Secure] <BRANDERXON> descansen camaradas
+[05:45:51] [Async Chat Thread - #28/INFO]: [Not Secure] <Luis512MC> descansa mmr
+[05:45:54] [Async Chat Thread - #28/INFO]: [Not Secure] <BRANDERXON> hasta mañana
+[05:46:03] [Async Chat Thread - #28/INFO]: [Not Secure] <BRANDERXON> besos en donde los quieran
+[05:46:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Luis512MC> hasta mañana
+[05:46:10] [Async Chat Thread - #28/INFO]: [Not Secure] <.CrashBlock73577> buena noches
+[05:46:14] [Server thread/INFO]: BRANDERXON lost connection: Disconnected
+[05:46:14] [Server thread/INFO]: BRANDERXON left the game
+[05:48:25] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> tocó mimir huevo
+[05:48:31] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> ya duermete
+[05:48:33] [Async Chat Thread - #30/INFO]: [Not Secure] <.CrashBlock73577> ok
+[05:48:36] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> descansa bb
+[05:48:56] [Async Chat Thread - #30/INFO]: [Not Secure] <.CrashBlock73577> descansa
+[05:49:02] [Server thread/INFO]: [Not Secure] [Server] Hora de dormir! - 10 SEGUNDOS...
+[05:49:04] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[05:49:04] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[05:49:04] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[05:49:04] [Server thread/INFO]: .CrashBlock73577 left the game
+[05:49:12] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[05:49:12] [Server thread/INFO]: Luis512MC left the game
+[05:49:17] [Server thread/INFO]: Stopping the server
+[05:49:17] [Server thread/INFO]: Stopping server
+[05:49:17] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[05:49:17] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:49:17] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:49:17] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
+[05:49:17] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2-SNAPSHOT
+[05:49:17] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[05:49:17] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[05:49:17] [Server thread/INFO]: Saving players
+[05:49:17] [Server thread/INFO]: Saving worlds
+[05:49:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:49:17] [WebSocketConnectReadThread-92/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Saved 107 block chunks, 245 entity chunks, 2 poi chunks in world 'world' in 0.25s
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[05:49:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 26 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[05:49:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[05:49:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[05:49:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:49:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:49:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:49:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:49:17] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[05:49:17] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[05:49:17] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[05:49:17] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
