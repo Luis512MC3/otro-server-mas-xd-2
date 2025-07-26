@@ -861,3 +861,38 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [04:58:13] [Server thread/INFO]: Luis512MC was kicked due to keepalive timeout!
 [04:58:13] [Server thread/INFO]: Luis512MC lost connection: Timed out
 [04:58:13] [Server thread/INFO]: Luis512MC left the game
+[04:58:33] [User Authenticator #4/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[04:58:34] [Async Chat Thread - #28/INFO]: [Not Secure] <kikofachero> QUE PASP HUEVO
+[04:58:36] [Server thread/INFO]: Luis512MC joined the game
+[04:58:36] [Server thread/INFO]: Luis512MC[/127.48.121.197:54667] logged in with entity id 34677 at ([world]-3596.9384871996567, 64.02167597134077, 3300.0696104472663)
+[04:58:46] [Async Chat Thread - #28/INFO]: [Not Secure] <Luis512MC> wtf
+[04:58:55] [Async Chat Thread - #28/INFO]: [Not Secure] <Luis512MC> porque tanta vaca en una islita?
+[04:59:13] [Async Chat Thread - #28/INFO]: [Not Secure] <.CrashBlock73577> cuentas pendientes
+[04:59:15] [Async Chat Thread - #28/INFO]: [Not Secure] <Luis512MC> alch me las voy a comer
+[04:59:18] [Async Chat Thread - #28/INFO]: [Not Secure] <kikofachero> NO MIS VACAS TIO
+[05:00:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> tremendos bistecs
+[05:01:02] [Async Chat Thread - #30/INFO]: [Not Secure] <.CrashBlock73577> donde? estas?
+[05:01:12] [Async Chat Thread - #30/INFO]: [Not Secure] <.CrashBlock73577> kiko
+[05:01:13] [Async Chat Thread - #30/INFO]: [Not Secure] <kikofachero> TU
+[05:01:14] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> sabe
+[05:01:23] [Async Chat Thread - #30/INFO]: [Not Secure] <kikofachero> GRANJA DE HIERRO
+[05:01:29] [Async Chat Thread - #30/INFO]: [Not Secure] <.CrashBlock73577> en la aldea
+[05:03:35] [Async Chat Thread - #32/INFO]: [Not Secure] <.CrashBlock73577> adios
+[05:03:39] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[05:03:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[05:03:39] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[05:03:39] [Server thread/INFO]: .CrashBlock73577 left the game
+[05:07:21] [Server thread/INFO]: Villager Villager['Villager'/28678, uuid='b08e4284-1d99-4a8d-a1c8-88d91a551465', l='ServerLevel[world]', x=-3555.18, y=62.00, z=3414.54, cpos=[-223, 213], tl=34871, v=true] died, message: 'Villager was slain by Drowned'
+[05:12:39] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[05:13:55] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[05:14:04] [Server thread/INFO]: Villager Villager['Fisherman'/28928, uuid='9a2eeeb7-3953-4770-a63e-71894633430c', l='ServerLevel[world]', x=-3510.40, y=62.94, z=3337.46, cpos=[-220, 208], tl=42384, v=true] died, message: 'Fisherman was slain by Luis512MC'
+[05:14:12] [Server thread/INFO]: Villager Villager['Fisherman'/28929, uuid='0e6e9b82-627e-4bb3-858f-f0fe522a611b', l='ServerLevel[world]', x=-3493.71, y=62.94, z=3331.34, cpos=[-219, 208], tl=42540, v=true] died, message: 'Fisherman was slain by Luis512MC'
+[05:14:36] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[05:16:25] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[05:17:37] [Async Chat Thread - #34/INFO]: [Not Secure] <Luis512MC> pusieron mal la tolva al baul
+[05:17:46] [Async Chat Thread - #34/INFO]: [Not Secure] <Luis512MC> eso no se los voy a arreglar
+[05:17:55] [Async Chat Thread - #34/INFO]: [Not Secure] <kikofachero> ese huevo jajaja
+[05:18:06] [Async Chat Thread - #34/INFO]: [Not Secure] <Luis512MC> les arreglé las lozas del zombie porque si no se les iba a quemar
+[05:18:09] [Async Chat Thread - #34/INFO]: [Not Secure] <kikofachero> ok yo se los arreglo
+[05:18:19] [Async Chat Thread - #34/INFO]: [Not Secure] <Luis512MC> le puse nametag para que no despawnee el zombie
+[05:18:26] [Async Chat Thread - #34/INFO]: [Not Secure] <kikofachero> es lo que le dije
