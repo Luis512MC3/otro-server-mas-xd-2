@@ -135,3 +135,47 @@
 [03:23:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> en mi casa padre!
 [03:24:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Jogitoramon> ya estas alla entonces
 [03:24:14] [Async Chat Thread - #0/INFO]: [Not Secure] <kikofachero> yes
+[03:24:33] [Server thread/INFO]: Jogitoramon lost connection: Disconnected
+[03:24:33] [Server thread/INFO]: Jogitoramon left the game
+[03:24:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> le valio vrg xd
+[03:24:49] [Async Chat Thread - #0/INFO]: [Not Secure] <kikofachero> jaajaj
+[03:25:53] [Server thread/INFO]: kikofachero lost connection: Disconnected
+[03:25:53] [Server thread/INFO]: kikofachero left the game
+[03:26:48] [Server thread/INFO]: BRANDERXON has made the advancement [Take Aim]
+[03:26:49] [User Authenticator #2/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
+[03:26:51] [Server thread/INFO]: kikofachero joined the game
+[03:26:51] [Server thread/INFO]: kikofachero[/127.48.121.197:45851] logged in with entity id 3762 at ([world]-3341.9833119747705, 14.0, 3614.077061594887)
+[03:26:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> divino
+[03:27:07] [Server thread/INFO]: Villager Villager['Nitwit'/36, uuid='2151e55f-446a-4029-90ee-b150d52978bc', l='ServerLevel[world]', x=-518.64, y=43.50, z=1082.69, cpos=[-33, 67], tl=13819, v=true] died, message: 'Nitwit was slain by Zombie'
+[03:28:15] [Async Chat Thread - #4/INFO]: [Not Secure] <BRANDERXON> luis
+[03:28:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> tmande
+[03:28:27] [Async Chat Thread - #4/INFO]: [Not Secure] <BRANDERXON> te tocó la semilla robot en pocket??
+[03:28:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> ns
+[03:28:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Luis512MC> alch yo solo jugaba
+[03:29:15] [User Authenticator #3/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[03:29:18] [Server thread/INFO]: Jogitoramon joined the game
+[03:29:18] [Server thread/INFO]: Jogitoramon[/127.48.121.197:45047] logged in with entity id 4688 at ([world_nether]21.69999998807907, 105.0, 3.315360543398032)
+[03:31:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Jogitoramon> rodri que haces
+[03:31:20] [Async Chat Thread - #7/INFO]: [Not Secure] <Luis512MC> haciendose
+[03:31:50] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[03:31:50] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[03:31:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[03:31:51] [Server thread/INFO]: .CrashBlock73577 joined the game
+[03:31:51] [Server thread/INFO]: .CrashBlock73577[/127.48.121.197:0] logged in with entity id 6020 at ([world]-3515.8333, 62.9375, 3323.4827)
+[03:33:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Jogitoramon> mau que haces
+[03:33:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> jorge pregunta que hacen para no hacer nada
+[03:33:24] [Server thread/INFO]: BRANDERXON lost connection: Timed out
+[03:33:24] [Server thread/INFO]: BRANDERXON left the game
+[03:33:29] [Async Chat Thread - #8/INFO]: [Not Secure] <.CrashBlock73577> en la granja
+[03:33:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> te la aarreglé
+[03:33:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> estaba hecha una mierda
+[03:33:50] [Async Chat Thread - #8/INFO]: [Not Secure] <.CrashBlock73577> gracias
+[03:34:10] [Async Chat Thread - #8/INFO]: [Not Secure] <.CrashBlock73577> xd lo se mi técnico
+[03:34:26] [Server thread/INFO]: Jogitoramon was kicked due to keepalive timeout!
+[03:34:26] [Server thread/INFO]: Jogitoramon lost connection: Timed out
+[03:34:26] [Server thread/INFO]: Jogitoramon left the game
+[03:34:34] [Async Chat Thread - #8/INFO]: [Not Secure] <.CrashBlock73577> xd
+[03:34:37] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> no es tecnicismo, son reglas básicas de minecraft
+[03:34:51] [User Authenticator #4/INFO]: UUID of player Jogitoramon is 7fb7be7d-281c-3be4-a990-a8900131a4bc
+[03:34:55] [Server thread/INFO]: Jogitoramon joined the game
+[03:34:55] [Server thread/INFO]: Jogitoramon[/127.48.121.197:36031] logged in with entity id 8015 at ([world_nether]-388.69999998807907, 87.0, 397.58266413049614)
