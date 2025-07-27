@@ -355,3 +355,70 @@
 [04:56:43] [Async Chat Thread - #44/INFO]: [Not Secure] <Luis512MC> yo un 19/45
 [04:56:55] [Async Chat Thread - #44/INFO]: [Not Secure] <kikofachero> huevo pvp por cuenta
 [04:57:00] [Async Chat Thread - #44/INFO]: [Not Secure] <kikofachero> saca sala
+[04:57:10] [Async Chat Thread - #45/INFO]: [Not Secure] <.CrashBlock73577> xd
+[04:57:27] [Async Chat Thread - #45/INFO]: [Not Secure] <.CrashBlock73577> 1 2
+[04:57:30] [Server thread/WARN]: Luis512MC moved too quickly! 10.226389319331183,0.0,1.001918558713328
+[04:57:37] [Async Chat Thread - #45/INFO]: [Not Secure] <.CrashBlock73577> 3 yaaaaa
+[04:58:06] [Server thread/INFO]: .CrashBlock73577 was slain by kikofachero
+[04:58:18] [Async Chat Thread - #45/INFO]: [Not Secure] <.CrashBlock73577> casi
+[04:58:29] [Async Chat Thread - #45/INFO]: [Not Secure] <kikofachero> 3 coraz
+[04:58:34] [Server thread/INFO]: Luis512MC has made the advancement [Oh Shiny]
+[04:58:52] [Async Chat Thread - #45/INFO]: [Not Secure] <kikofachero> bueno ya me void
+[04:58:56] [Async Chat Thread - #45/INFO]: [Not Secure] <kikofachero> byeee
+[04:58:59] [Async Chat Thread - #45/INFO]: [Not Secure] <.CrashBlock73577> ok
+[04:59:07] [Async Chat Thread - #45/INFO]: [Not Secure] <.CrashBlock73577> byeee
+[04:59:12] [Server thread/INFO]: kikofachero lost connection: Disconnected
+[04:59:12] [Server thread/INFO]: kikofachero left the game
+[05:04:32] [Async Chat Thread - #46/INFO]: [Not Secure] <Luis512MC> hay que dormir
+[05:04:35] [Async Chat Thread - #46/INFO]: [Not Secure] <Luis512MC> hasta mañana
+[05:04:41] [Async Chat Thread - #46/INFO]: [Not Secure] <Luis512MC> descansa mi huebo
+[05:04:56] [Async Chat Thread - #46/INFO]: [Not Secure] <.CrashBlock73577> hastael mañana
+[05:05:04] [Async Chat Thread - #46/INFO]: [Not Secure] <.CrashBlock73577> igual
+[05:05:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[05:05:26] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[05:05:26] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[05:05:26] [Server thread/INFO]: .CrashBlock73577 left the game
+[05:05:28] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[05:05:28] [Server thread/INFO]: Luis512MC left the game
+[05:05:34] [Server thread/INFO]: Stopping the server
+[05:05:34] [Server thread/INFO]: Stopping server
+[05:05:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[05:05:34] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[05:05:34] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:05:34] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:05:34] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
+[05:05:34] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[05:05:34] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[05:05:34] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[05:05:34] [Server thread/INFO]: Saving players
+[05:05:34] [Server thread/INFO]: Saving worlds
+[05:05:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:05:34] [WebSocketConnectReadThread-96/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Saved 100 block chunks, 422 entity chunks, 2 poi chunks in world 'world' in 0.22s
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[05:05:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 51 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[05:05:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[05:05:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[05:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:05:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:05:34] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[05:05:34] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[05:05:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[05:05:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
