@@ -122,3 +122,18 @@
 [04:09:47] [Async Chat Thread - #2/INFO]: [Not Secure] <kikofachero> comooooo
 [04:10:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Luis512MC> digamos que tengo un amigo muy volador, grande y blanco
 [04:10:44] [Async Chat Thread - #2/INFO]: [Not Secure] <kikofachero> oooo ya
+[04:13:08] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[04:13:08] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[04:13:08] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[04:13:08] [Server thread/INFO]: .CrashBlock73577 joined the game
+[04:13:08] [Server thread/INFO]: .CrashBlock73577[/127.48.121.197:0] logged in with entity id 5998 at ([world]-3263.6501921011727, 38.02884238357609, 3573.0729495707556)
+[04:15:43] [Server thread/INFO]: kikofachero has made the advancement [What a Deal!]
+[04:15:59] [Async Chat Thread - #4/INFO]: [Not Secure] <.CrashBlock73577> kiko coordenadas?
+[04:16:05] [Async Chat Thread - #4/INFO]: [Not Secure] <.CrashBlock73577> me perdi
+[04:16:29] [Async Chat Thread - #4/INFO]: [Not Secure] <kikofachero> aste un pa riba haci sali yo
+[04:18:53] [Async Chat Thread - #6/INFO]: [Not Secure] <.CrashBlock73577> listo
+[04:20:23] [Async Chat Thread - #8/INFO]: [Not Secure] <kikofachero> huevo ya hice lo del aldeano de las flechas
+[04:20:30] [Async Chat Thread - #8/INFO]: [Not Secure] <kikofachero> y ya me voy
+[04:20:33] [Server thread/INFO]: kikofachero lost connection: Disconnected
+[04:20:33] [Server thread/INFO]: kikofachero left the game
+[04:22:13] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
