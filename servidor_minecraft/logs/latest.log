@@ -138,3 +138,8 @@
 [02:21:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
 [02:21:24] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
 [02:21:24] [Server thread/INFO]: .CrashBlock73577 left the game
+[02:26:09] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[02:26:09] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[02:26:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[02:26:10] [Server thread/INFO]: .CrashBlock73577 joined the game
+[02:26:10] [Server thread/INFO]: .CrashBlock73577[/127.48.121.197:0] logged in with entity id 1339 at ([world]-3530.361, 64.0, 3340.0615)
