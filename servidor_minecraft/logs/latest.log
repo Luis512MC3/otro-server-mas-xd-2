@@ -143,3 +143,21 @@
 [02:26:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
 [02:26:10] [Server thread/INFO]: .CrashBlock73577 joined the game
 [02:26:10] [Server thread/INFO]: .CrashBlock73577[/127.48.121.197:0] logged in with entity id 1339 at ([world]-3530.361, 64.0, 3340.0615)
+[02:39:17] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[02:43:02] [User Authenticator #3/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
+[02:43:07] [Server thread/INFO]: kikofachero joined the game
+[02:43:07] [Server thread/INFO]: kikofachero[/127.48.121.197:57495] logged in with entity id 3990 at ([world]-3475.5087029310494, 74.0, 3367.699999988079)
+[02:43:39] [Server thread/INFO]: kikofachero was kicked due to keepalive timeout!
+[02:43:39] [Server thread/INFO]: kikofachero lost connection: Timed out
+[02:43:39] [Server thread/INFO]: kikofachero left the game
+[02:43:40] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> hola
+[02:43:49] [User Authenticator #3/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
+[02:43:51] [Server thread/INFO]: kikofachero joined the game
+[02:43:51] [Server thread/INFO]: kikofachero[/127.48.121.197:44413] logged in with entity id 4177 at ([world]-3475.5087029310494, 74.0, 3367.699999988079)
+[02:44:02] [Async Chat Thread - #2/INFO]: [Not Secure] <.CrashBlock73577> hola
+[02:44:23] [Server thread/INFO]: kikofachero was kicked due to keepalive timeout!
+[02:44:23] [Server thread/INFO]: kikofachero lost connection: Timed out
+[02:44:23] [Server thread/INFO]: kikofachero left the game
+[02:45:13] [User Authenticator #4/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
+[02:45:15] [Server thread/INFO]: kikofachero joined the game
+[02:45:15] [Server thread/INFO]: kikofachero[/127.48.121.197:38629] logged in with entity id 4437 at ([world]-3490.6197292608113, 64.0, 3366.953253655408)
