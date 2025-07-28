@@ -161,3 +161,21 @@
 [02:45:13] [User Authenticator #4/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
 [02:45:15] [Server thread/INFO]: kikofachero joined the game
 [02:45:15] [Server thread/INFO]: kikofachero[/127.48.121.197:38629] logged in with entity id 4437 at ([world]-3490.6197292608113, 64.0, 3366.953253655408)
+[02:45:47] [Server thread/INFO]: kikofachero was kicked due to keepalive timeout!
+[02:45:47] [Server thread/INFO]: kikofachero lost connection: Timed out
+[02:45:47] [Server thread/INFO]: kikofachero left the game
+[02:45:54] [User Authenticator #4/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
+[02:45:56] [Server thread/INFO]: kikofachero joined the game
+[02:45:56] [Server thread/INFO]: kikofachero[/127.48.121.197:50377] logged in with entity id 4617 at ([world]-3490.1741837426534, 67.17675927506424, 3364.0890727762608)
+[02:46:28] [Server thread/INFO]: kikofachero was kicked due to keepalive timeout!
+[02:46:28] [Server thread/INFO]: kikofachero lost connection: Timed out
+[02:46:28] [Server thread/INFO]: kikofachero left the game
+[02:46:48] [User Authenticator #4/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
+[02:46:51] [Server thread/INFO]: kikofachero joined the game
+[02:46:51] [Server thread/INFO]: kikofachero[/127.48.121.197:57907] logged in with entity id 4795 at ([world]-3490.0684649120913, 64.51946545012677, 3368.8363022711096)
+[02:47:23] [Server thread/INFO]: kikofachero was kicked due to keepalive timeout!
+[02:47:23] [Server thread/INFO]: kikofachero lost connection: Timed out
+[02:47:23] [Server thread/INFO]: kikofachero left the game
+[02:49:16] [User Authenticator #5/INFO]: UUID of player kikofachero is f30363a4-ea0a-36b0-b5c7-4482f6d0061f
+[02:49:17] [Server thread/INFO]: kikofachero joined the game
+[02:49:17] [Server thread/INFO]: kikofachero[/127.48.121.197:45649] logged in with entity id 5189 at ([world]-3489.4145553929307, 62.19314142007332, 3432.924327065903)
