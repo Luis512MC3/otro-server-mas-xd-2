@@ -126,3 +126,15 @@
 [02:12:47] [Server thread/INFO]: Luis512MC was kicked due to keepalive timeout!
 [02:12:47] [Server thread/INFO]: Luis512MC lost connection: Timed out
 [02:12:47] [Server thread/INFO]: Luis512MC left the game
+[02:19:04] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[02:19:04] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[02:19:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[02:19:04] [Server thread/INFO]: .CrashBlock73577 joined the game
+[02:19:04] [Server thread/INFO]: .CrashBlock73577[/127.48.121.197:0] logged in with entity id 676 at ([world]-3518.30001, 64.0, 3377.8494)
+[02:19:54] [Async Chat Thread - #0/INFO]: [Not Secure] <.CrashBlock73577> hola?
+[02:20:08] [Async Chat Thread - #0/INFO]: [Not Secure] <.CrashBlock73577> hola?
+[02:20:26] [Async Chat Thread - #0/INFO]: [Not Secure] <.CrashBlock73577> hola?
+[02:21:24] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[02:21:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[02:21:24] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[02:21:24] [Server thread/INFO]: .CrashBlock73577 left the game
