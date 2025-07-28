@@ -137,3 +137,76 @@
 [04:20:33] [Server thread/INFO]: kikofachero lost connection: Disconnected
 [04:20:33] [Server thread/INFO]: kikofachero left the game
 [04:22:13] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[04:24:15] [Async Chat Thread - #10/INFO]: [Not Secure] <Luis512MC> descansa webo
+[04:24:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Luis512MC> hasta mañana
+[04:24:22] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[04:24:22] [Server thread/INFO]: Luis512MC left the game
+[04:24:31] [Server thread/INFO]: Stopping the server
+[04:24:31] [Server thread/INFO]: Stopping server
+[04:24:31] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[04:24:31] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[04:24:31] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[04:24:31] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[04:24:31] [Server thread/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Apagando Geyser Proxy.
+[04:24:31] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[04:24:31] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[04:24:31] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[04:24:31] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
+[04:24:31] [Server thread/ERROR]: Error occurred while disabling AngelChest v13.9.4
+java.lang.ExceptionInInitializerError: null
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain.onDisable(AngelChestMain.java:445) ~[AngelChest-13.9.4.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:624) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1002) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:712) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1295) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:532) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:218) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:209) ~[paper-1.21.8.jar:1.21.8-10-c8a8c0e]
+	at org.bukkit.scheduler.BukkitRunnable.runTaskTimer(BukkitRunnable.java:117) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at AngelChest-13.9.4.jar/de.jeff_media.angelchest.AngelChestMain$$cI.<clinit>(GraveyardListener.java:57) ~[AngelChest-13.9.4.jar:?]
+	... 12 more
+[04:24:31] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[04:24:31] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:24:31] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[04:24:31] [Server thread/INFO]: Saving players
+[04:24:31] [Server thread/INFO]: .CrashBlock73577 lost connection: Server closed
+[04:24:31] [Server thread/INFO]: .CrashBlock73577 left the game
+[04:24:31] [WebSocketConnectReadThread-97/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[04:24:31] [Server thread/INFO]: Saving worlds
+[04:24:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:24:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:24:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:24:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Saved 539 block chunks, 702 entity chunks, 0 poi chunks in world 'world' in 0.87s
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[04:24:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[04:24:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[04:24:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[04:24:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:24:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:24:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:24:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:24:32] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[04:24:32] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[04:24:32] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[04:24:32] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
