@@ -172,3 +172,7 @@ ne<--[HERE]
 [04:58:56] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [04:58:57] [Server thread/INFO]: Luis512MC joined the game
 [04:58:57] [Server thread/INFO]: Luis512MC[/127.152.89.139:49169] logged in with entity id 16572 at ([world]-961.5398605648778, 67.0, -2218.1623332070244)
+[05:03:23] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[05:03:24] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[05:06:25] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[05:06:26] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
