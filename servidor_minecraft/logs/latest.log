@@ -161,3 +161,9 @@ ne<--[HERE]
 [04:20:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> .CrashBlock73577 ha sido detonado
 [04:20:42] [Server thread/WARN]: Luis512MC moved too quickly! -13.44528133191784,-1.173501436845072,2.7231483218229187
 [04:30:31] [Server thread/INFO]: .CrashBlock73577 was slain by Zombified Piglin
+[04:33:02] [Server thread/INFO]: .CrashBlock73577 was slain by Piglin
+[04:33:38] [Server thread/INFO]: .CrashBlock73577 was slain by Piglin
+[04:40:32] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client disconnected
+[04:40:32] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[04:40:32] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[04:40:32] [Server thread/INFO]: .CrashBlock73577 left the game
