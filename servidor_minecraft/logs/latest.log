@@ -167,3 +167,8 @@ ne<--[HERE]
 [04:40:32] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
 [04:40:32] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
 [04:40:32] [Server thread/INFO]: .CrashBlock73577 left the game
+[04:58:52] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[04:58:52] [Server thread/INFO]: Luis512MC left the game
+[04:58:56] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[04:58:57] [Server thread/INFO]: Luis512MC joined the game
+[04:58:57] [Server thread/INFO]: Luis512MC[/127.152.89.139:49169] logged in with entity id 16572 at ([world]-961.5398605648778, 67.0, -2218.1623332070244)
