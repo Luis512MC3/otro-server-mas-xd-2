@@ -167,3 +167,8 @@
 [05:28:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Luis512MC> ./clima seco
 [05:28:32] [Server thread/INFO]: Villager Villager['Fletcher'/5818, uuid='fe2ed4e8-6e0f-4b92-aa2b-b02541bf98ec', l='ServerLevel[world]', x=-875.73, y=64.00, z=-2418.03, cpos=[-55, -152], tl=41085, v=true] died, message: 'Fletcher was shot by Pillager'
 [05:28:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Luis512MC> ./bayase yuvia
+[05:52:03] [Server thread/INFO]: .Hela20100410 has made the advancement [Sweet Dreams]
+[05:56:11] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Hela20100410 has disconnected from the Java server because of Bedrock client disconnected
+[05:56:11] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Hela20100410 disconnected
+[05:56:11] [Server thread/INFO]: .Hela20100410 lost connection: Disconnected
+[05:56:11] [Server thread/INFO]: .Hela20100410 left the game
