@@ -137,3 +137,5 @@
 [03:12:43] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
 [03:12:46] [Server thread/INFO]: Luis512MC joined the game
 [03:12:46] [Server thread/INFO]: Luis512MC[/127.138.194.81:59065] logged in with entity id 26 at ([world]-879.5162390868232, 68.0, -2260.5208732729398)
+[04:00:03] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:00:14] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
