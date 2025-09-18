@@ -365,3 +365,9 @@
 [06:08:08] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
 [06:09:11] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [06:09:43] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[06:24:56] [Server thread/INFO]: Villager Villager['Villager'/32665, uuid='8a0ce9f1-0ba4-4dcb-9306-e74a5fd9d8fb', l='ServerLevel[world_nether]', x=-395.16, y=69.54, z=457.55, cpos=[-25, 28], tl=3680, v=true] died, message: 'Villager suffocated in a wall'
+[06:25:26] [Server thread/INFO]: Villager Villager['Villager'/32664, uuid='104f1ce0-c393-4dc8-97a3-22955d5f5628', l='ServerLevel[world_nether]', x=-391.95, y=73.42, z=460.24, cpos=[-25, 28], tl=4282, v=true] died, message: 'Villager suffocated in a wall'
+[06:26:01] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[06:26:24] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[06:26:32] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[06:26:33] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
