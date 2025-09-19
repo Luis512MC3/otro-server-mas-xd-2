@@ -143,3 +143,5 @@
 ss<--[HERE]
 [04:23:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
 ss<--[HERE]
+[04:37:49] [Server thread/INFO]: Luis512MC issued server command: /give Luis512MC minecraft:name_tag
+[04:37:49] [Server thread/INFO]: [Luis512MC: Gave 1 [Name Tag] to Luis512MC]
