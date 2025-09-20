@@ -141,3 +141,6 @@
 dd<--[HERE]
 [18:06:30] [Server thread/INFO]: Luis512MC lost connection: Disconnected
 [18:06:30] [Server thread/INFO]: Luis512MC left the game
+[18:22:13] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[18:22:15] [Server thread/INFO]: Luis512MC joined the game
+[18:22:15] [Server thread/INFO]: Luis512MC[/127.252.108.88:38305] logged in with entity id 5199 at ([world]-978.4816558644419, 74.0, -2250.3337141402476)
