@@ -144,3 +144,16 @@ dd<--[HERE]
 [18:22:13] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [18:22:15] [Server thread/INFO]: Luis512MC joined the game
 [18:22:15] [Server thread/INFO]: Luis512MC[/127.252.108.88:38305] logged in with entity id 5199 at ([world]-978.4816558644419, 74.0, -2250.3337141402476)
+[18:33:47] [Server thread/INFO]: Luis512MC fell from a high place
+[18:33:51] [Server thread/INFO]: Luis512MC issued server command: /acfetch 1
+[18:35:55] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[18:36:10] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[18:36:23] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[18:36:34] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[18:36:52] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[18:36:55] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[18:37:02] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[18:37:12] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[18:37:57] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[18:38:16] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[18:38:22] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
